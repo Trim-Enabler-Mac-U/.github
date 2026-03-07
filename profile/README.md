@@ -1,7 +1,7 @@
 # Trim Enabler Mac
 
 <p align="center">
-  <img src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1517883211207-Trim%20Enabler.png" width="200" alt="Trim Enabler icon"/>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/f0/45/f6f04588-090b-78c1-7b50-359e3f5681ac/DiskSpeedTest.png/200x200ib-75.webp" width="200" alt="Trim Enabler icon"/>
 </p>
 
 <p align="center">
@@ -37,12 +37,6 @@ The <a href="#">verification display</a> in Trim Enabler confirms that TRIM is a
 - <a href="#">Write performance</a> maintenance through garbage collection restoration
 - <a href="#">Total data written</a> tracking against drive endurance specification
 - Compatible with <a href="#">NVMe and SATA</a> third-party SSD upgrades
-
----
-
-<p align="center">
-  <img src="https://static.macupdate.com/screenshots/300502/m/trim-enabler-screenshot.png?v=1617736342" alt="Trim Enabler screenshot"/>
-</p>
 
 ---
 
